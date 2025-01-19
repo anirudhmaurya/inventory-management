@@ -111,6 +111,7 @@ AUTH_PASSWORD_VALIDATORS = [
 CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:5500",  # Your frontend's URL
     "http://localhost:5500",  # Add localhost too, if necessary
+    "https://anirudhmaurya.github.io",
 ]
 
 CORS_ALLOW_ALL_ORIGINS = True
