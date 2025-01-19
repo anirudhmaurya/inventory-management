@@ -32,6 +32,13 @@ This project is a backend implementation for an Inventory Management System usin
    python manage.py runserver
    ```
 
+## Deployment Information
+
+This service is deployed on the free tier of Render.
+
+- **Local Base URL:** `http://localhost:8000` (when running locally)
+- **Deployed Service URL:** [https://inventory-management-hcep.onrender.com](https://inventory-management-hcep.onrender.com)
+
 ## API Endpoints
 
 ### 1. Add a Product
